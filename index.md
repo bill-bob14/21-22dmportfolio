@@ -1,4 +1,4 @@
-## Welcome to Billie's Portoflio!
+## Welcome to Billie's Portfolio!
 
 You can use the [editor on GitHub](https://github.com/bill-bob14/21-22dmportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
